@@ -1,0 +1,49 @@
+.N1{
+    text-align: center;
+    color: lightcoral;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+}
+.N1:hover{
+    color: black;
+    font-weight: bolder;
+
+}
+
+.r{
+    width:420px ;
+    font-size: 15px;
+    font-weight: normal;
+    color: rgb(100, 96, 96); 
+    border-bottom: 1px rgb(192, 184, 184) solid;
+
+}
+
+.Prof{
+    float: left;
+    height: 50px;
+    margin: 5px 0px 0px 0px;
+
+
+}
+
+p {
+    font-size: 14px;
+    font-family:Arial, sans-serif;
+    float: left;
+    width: 200px; 
+    margin: 25px 20px 20px 10px;
+}
+
+.Lekc{
+    background: rgb(164, 234, 247);
+    border-radius: 30px;
+    color: rgb(79, 164, 216);
+    width: 110px;
+    text-align: center;
+    font-family:cursive;
+    font-size:14px;
+    float: left;
+    margin-top: 25px;
+}

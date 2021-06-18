@@ -1,0 +1,29 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    height: 500px;
+    
+      
+}
+table,th,td{
+    border: 1px solid rgb(167, 161, 161);
+    padding: 8px;
+    text-align: center;
+
+}
+tr:nth-child(even){
+    background-color: rgb(223, 215, 215);
+
+}
+td{
+    text-align: left;
+    font-weight: bold;
+}
+th{
+background-color: seagreen;
+color: white; 
+font-size: xx-large;
+font-weight: lighter;
+}
+

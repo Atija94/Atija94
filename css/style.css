@@ -1,0 +1,56 @@
+.body{
+    display: flex;
+    background: rosybrown;
+    flex-wrap: wrap;
+    background-color: royalblue;
+    border: 2px gray;
+    border-radius: 8px;
+}
+
+
+
+
+
+.card {
+    
+    align-items:center;
+    width: 340px;
+    height: 400px;
+    background-color:rgb(255, 254, 254);
+    border: 2px gray;
+    border-radius: 50px 50px 50px 50px;
+    border-color: gray;
+
+    margin: 5px;
+    padding: 0px; 
+
+}
+
+
+.cardSucces{
+    background: red;
+}
+
+.cardTitle {
+    color:black;
+    text-align: left;
+    font-size: 12px;
+}
+.cardText {
+    width: 280px;
+    border: radius 25px;;
+    padding: 25px;
+    margin: 10px;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    
+}
+
+.cardImg {
+    width: 340px;
+    height: 250px;
+    border-radius: 8px;
+    margin: ;
+    
+}
